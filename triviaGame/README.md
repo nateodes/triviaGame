@@ -1,0 +1,2 @@
+# triviaGame
+Simple js game 
